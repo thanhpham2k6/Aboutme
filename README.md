@@ -18,10 +18,7 @@
 
 ### 📊 GitHub Stats
 
-![Thanh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thanhpham2k6&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhpham2k6&layout=compact&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=thanhpham2k6&theme=tokyonight)
 
 ---
 
